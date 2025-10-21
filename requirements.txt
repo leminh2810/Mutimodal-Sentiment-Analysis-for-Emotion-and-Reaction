@@ -1,0 +1,10 @@
+librosa
+opencv-python
+tqdm
+torch
+numpy
+pandas
+gradio
+facenet-pytorch
+matplotlib
+gradio
